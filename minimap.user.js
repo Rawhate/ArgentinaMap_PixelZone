@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Mapa Argentino
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  MapaArgentino.io
 // @author       ~~~
 // @match        https://pixelzone.io/*
@@ -52,7 +52,7 @@ window.addEventListener('load', function () {
     //Cachebreaker to force refresh
     cachebreaker = null;
 
-vers = "Arstotzka";
+vers = "ArgetinaMap";
 
     var div = document.createElement('div');
     div.setAttribute('class', 'post block bc2');
