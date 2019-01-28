@@ -8,7 +8,7 @@ MiniMapa Argentino 🌞 en PixelZone.io
 
 ••• 1er Paso •••
 
-Instalar TamperMonkey
+Instalar extensión de TamperMonkey:
 
 :: Para Chrome ::
 
@@ -20,7 +20,7 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 
 ••• 2do Paso •••
 
-Abrir el siguiente link dando la posibilidad de instalarlo directo:
+Abrir el siguiente link y cargarlo directamente:
 
 https://github.com/Pinkfloydd/ArgentinaMap_PixelZone/raw/master/minimap.user.js
 
