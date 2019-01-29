@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Mapa Argentino
 // @namespace    http://tampermonkey.net/
-// @version      1.5
+// @version 1.6
 // @description  MapaArgentino.io
 // @author       ~~~
 // @match        https://pixelzone.io/*
